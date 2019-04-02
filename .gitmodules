@@ -1,0 +1,6 @@
+[submodule "ICAPS2019"]
+	path = ICAPS2019
+	url = git@github.com:eggeek/CPD-Hsymbol-Wildcard.git
+[submodule "SoCS2018"]
+	path = SoCS2018
+	url = git@github.com:eggeek/Nav-Mesh-OkNN.git
