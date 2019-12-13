@@ -4,3 +4,6 @@
 [submodule "SoCS2018"]
 	path = SoCS2018
 	url = git@github.com:eggeek/Nav-Mesh-OkNN.git
+[submodule "papers/ICAPS2020-Suboptimal-CPD"]
+	path = papers/ICAPS2020-Suboptimal-CPD
+	url = https://github.com/eggeek/ICAPS2020-Suboptimal-CPD.git
