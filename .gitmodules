@@ -7,3 +7,6 @@
 [submodule "papers/ICAPS2020-Suboptimal-CPD"]
 	path = papers/ICAPS2020-Suboptimal-CPD
 	url = https://github.com/eggeek/ICAPS2020-Suboptimal-CPD.git
+[submodule "papers/Fast-OkNN-SoCS18"]
+	path = papers/Fast-OkNN-SoCS18
+	url = https://github.com/eggeek/Fast-OkNN-SoCS18.git
