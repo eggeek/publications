@@ -10,3 +10,6 @@
 [submodule "papers/Fast-OkNN-SoCS18"]
 	path = papers/Fast-OkNN-SoCS18
 	url = https://github.com/eggeek/Fast-OkNN-SoCS18.git
+[submodule "papers/ICAPS2019-CPD-Heuristic-Symbol"]
+	path = papers/ICAPS2019-CPD-Heuristic-Symbol
+	url = https://github.com/eggeek/ICAPS2019-CPD-Heuristic-Symbol.git
