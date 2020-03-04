@@ -13,3 +13,6 @@
 [submodule "papers/ICAPS2019-CPD-Heuristic-Symbol"]
 	path = papers/ICAPS2019-CPD-Heuristic-Symbol
 	url = https://github.com/eggeek/ICAPS2019-CPD-Heuristic-Symbol.git
+[submodule "ICAPS2020"]
+	path = ICAPS2020
+	url = https://github.com/eggeek/CPD-Hsymbol-Wildcard.git
