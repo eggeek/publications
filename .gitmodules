@@ -16,3 +16,6 @@
 [submodule "ICAPS2020"]
 	path = ICAPS2020
 	url = https://github.com/eggeek/CPD-Hsymbol-Wildcard.git
+[submodule "papers/Fence-OkNN-JAIR"]
+	path = papers/Fence-OkNN-JAIR
+	url = https://github.com/eggeek/Fence-OkNN-JAIR.git
